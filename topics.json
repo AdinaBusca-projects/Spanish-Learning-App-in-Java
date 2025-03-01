@@ -1,0 +1,86 @@
+{
+  "Spanish Basics": {
+    "learn": {
+      "name": "Spanish Basics",
+      "content": "Learn basic Spanish phrases. Start with greetings and common expressions. Practice with simple vocabulary."
+    },
+    "quiz": {
+      "score": 0,
+      "completed": false,
+      "name": "Spanish Basics Quiz",
+      "questions": [
+        "How do you say 'hello' in Spanish?",
+        "What is the Spanish word for 'book'?",
+        "How do you say 'thank you' in Spanish?"
+      ],
+      "answers": [
+        "Hola",
+        "Libro",
+        "Gracias"
+      ]
+    }
+  },
+  "Spanish Verb Conjugations": {
+    "learn": {
+      "name": "Spanish Verb Conjugations",
+      "content": "Learn how to conjugate regular verbs in the present tense. Focus on -ar, -er, and -ir verbs."
+    },
+    "quiz": {
+      "score": 0,
+      "completed": false,
+      "name": "Spanish Verb Conjugations Quiz",
+      "questions": [
+        "What is the conjugation of 'hablar' (to speak) for 'yo'?",
+        "How do you conjugate 'comer' (to eat) for 'él'?",
+        "What is the 'nosotros' form of 'vivir' (to live)?"
+      ],
+      "answers": [
+        "Hablo",
+        "Come",
+        "Vivimos"
+      ]
+    }
+  },
+  "Spanish Numbers": {
+    "learn": {
+      "name": "Spanish Numbers",
+      "content": "Learn the Spanish numbers from 1 to 100. Practice counting and understanding basic arithmetic."
+    },
+    "quiz": {
+      "score": 0,
+      "completed": false,
+      "name": "Spanish Numbers Quiz",
+      "questions": [
+        "What is the Spanish word for 'five'?",
+        "How do you say 'twenty' in Spanish?",
+        "What is the number '30' in Spanish?"
+      ],
+      "answers": [
+        "Cinco",
+        "Veinte",
+        "Treinta"
+      ]
+    }
+  },
+  "Spanish Food Vocabulary": {
+    "learn": {
+      "name": "Spanish Food Vocabulary",
+      "content": "Learn names of common Spanish foods and drinks. Understand how to order food in a Spanish-speaking restaurant."
+    },
+    "quiz": {
+      "score": 0,
+      "completed": false,
+      "name": "Spanish Food Vocabulary Quiz",
+      "questions": [
+        "What is the Spanish word for 'apple'?",
+        "How do you say 'bread' in Spanish?",
+        "What is the word for 'water' in Spanish?"
+      ],
+      "answers": [
+        "Manzana",
+        "Pan",
+        "Agua"
+      ]
+    }
+  }
+}

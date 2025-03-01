@@ -1,0 +1,61 @@
+/* General Styles */
+.root {
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-background-color: #f4f4f9;
+}
+
+/* Labels */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333;
+}
+
+/* Text Fields and Password Fields */
+.text-field, .password-field {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-color: #ddd;
+    -fx-border-width: 1px;
+    -fx-background-color: #fff;
+    -fx-border-radius: 5px;
+}
+
+/* Buttons */
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #9c0808;
+    -fx-text-fill: white;
+    -fx-border-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #e01f1f;
+}
+
+.button:pressed {
+    -fx-background-color: #deb212;
+}
+
+/* ComboBox */
+.combo-box {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5px;
+}
+
+/* TextArea */
+.text-area {
+    -fx-font-size: 14px;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5px;
+}
+
+/* VBox */
+.vbox {
+    -fx-padding: 20px;
+    -fx-spacing: 15px;
+    -fx-alignment: center;
+}
